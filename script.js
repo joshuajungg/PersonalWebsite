@@ -243,7 +243,7 @@ loadingStyles.textContent = `
         left: 0;
         width: 100%;
         height: 100%;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #111827 0%, #4b5563 100%);
         z-index: 9999;
         display: flex;
         align-items: center;
